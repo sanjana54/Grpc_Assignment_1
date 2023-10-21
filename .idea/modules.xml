@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Distributed-System-main.iml" filepath="$PROJECT_DIR$/.idea/Distributed-System-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gRPC_Producer/gRPC_Assignment_Database.iml" filepath="$PROJECT_DIR$/gRPC_Producer/gRPC_Assignment_Database.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gRPC_Client/gRPC_client_demo.iml" filepath="$PROJECT_DIR$/gRPC_Client/gRPC_client_demo.iml" />
+    </modules>
+  </component>
+</project>
